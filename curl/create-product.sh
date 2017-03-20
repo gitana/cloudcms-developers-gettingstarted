@@ -5,7 +5,7 @@
 #
 
 # connect to Cloud CMS and get an OAuth 2.0 access token
-source ./connect.sh
+source ./_connect.sh
 
 # the things we'll upload
 NODE_JSON_PATH=../assets/cupcake.json

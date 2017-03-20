@@ -3,7 +3,7 @@
 # Calls over to the Cloud CMS sample project and retrieves 5 products.
 
 # connect to Cloud CMS and get an OAuth 2.0 access token
-source ./connect.sh
+source ./_connect.sh
 
 # make the API call passing the access token over
 QUERY="{'_type': 'catalog:product'}"
