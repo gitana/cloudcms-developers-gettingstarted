@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# the following keys were auto-populated for you by Cloud CMS when you
-# downloaded the developer's getting started kit
+# these should contain your Cloud CMS API Keys
+# BASE_URL generally defaults to: https://api.cloudcms.com
 #
 CLIENT_KEY={{{clientKey}}}
 CLIENT_SECRET={{{clientSecret}}}
